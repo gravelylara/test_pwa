@@ -1,6 +1,6 @@
 {
-  "name": "Site maneiro-App", // installation name
-  "short_name": "Site maneiro", // app title name
+  "name": "Site maneiro-App",
+  "short_name": "Site maneiro",
   "start_url": ".",
   "theme_color": "#4287f5",
   "background_color": "#ffffff",
