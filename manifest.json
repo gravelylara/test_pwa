@@ -1,0 +1,21 @@
+{
+  "name": "Site maneiro-App", // installation name
+  "short_name": "Site maneiro", // app title name
+  "start_url": ".",
+  "theme_color": "#4287f5",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "icons":[
+    {
+      "src":"logo128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src":"logo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+
+}
